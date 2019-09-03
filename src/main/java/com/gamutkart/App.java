@@ -6,7 +6,7 @@ public class App
     {
 		int i;
 // testing continuous buids in Jenkins for every 5 minuts
-//added for trsting
+//added for trsting github hook
 	    for(i=0;i<=40;i++)
 		{
 			i += 3;

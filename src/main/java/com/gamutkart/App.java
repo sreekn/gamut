@@ -6,7 +6,8 @@ public class App
     {
 		int i;
 // testing continuous buids in Jenkins for every 5 minuts
-		for(i=0;i<=40;i++)
+//added for trsting
+	    for(i=0;i<=40;i++)
 		{
 			i += 3;
         	System.out.println( "print number: " + i);
